@@ -45,3 +45,6 @@ motd-44 = You are loved. Exactly as you are.
 motd-45 = Trans rights!
 motd-46 = I saw your ref sheet. I know what you are.
 motd-47 = Friendship is magic.
+motd-48 = Kind of Tider free!
+motd-49 = Keyboard compatible!
+motd-50 = What does "Corpus" actually mean?
