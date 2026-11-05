@@ -21,7 +21,7 @@ RELEASE_DIR = "release"
 # Forks should change these to publish to their own infrastructure.
 #
 ROBUST_CDN_URL = "https://cdn.corpus-station.top/"
-FORK_ID = "CorpusStation"
+FORK_ID = "CORPUSSTATION"
 
 def main():
     session = requests.Session()
