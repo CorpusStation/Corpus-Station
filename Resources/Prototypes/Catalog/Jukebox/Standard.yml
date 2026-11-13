@@ -42,8 +42,8 @@
   path:
     path: /Audio/Jukebox/sunset.ogg
 
-  - type: jukebox
+- type: jukebox
   id: evilwizard
   name: Evil Fucking Wizard - Cone Poem
   path:
-    path: /Audio/Ambience/evilwizarconepoem.ogg
+    path: /Audio/Jukebox/evilfuckingwizard.ogg
