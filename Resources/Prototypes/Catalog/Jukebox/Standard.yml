@@ -41,3 +41,9 @@
   name: PigeonBeans - Sunset
   path:
     path: /Audio/Jukebox/sunset.ogg
+
+  - type: jukebox
+  id: evilwizard
+  name: Evil Fucking Wizard - Cone Poem
+  path:
+    path: /Audio/Ambience/evilwizarconepoem.ogg
